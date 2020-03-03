@@ -1,0 +1,17 @@
+Type: Compendium
+Package: Corona OA analysis
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Searching Europe PMC for publications about
+    Corona virus (2019-nCoV)
+License: What license it uses
+Depends: 
+    europepmc
+Encoding: UTF-8
+LazyData: true
